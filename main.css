@@ -6,4 +6,11 @@ html {
   margin: 0px;
   padding: 0px;
   overflow-x: hidden;
+  background-color: #24292e;
+}
+
+.center-text {
+  color: white;
+  font-size: 50px;
+  margin-top: 45vh;
 }
