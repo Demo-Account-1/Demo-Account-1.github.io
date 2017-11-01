@@ -14,3 +14,7 @@ html {
   font-size: 50px;
   margin-top: 45vh;
 }
+
+.bigger-text {
+  transform: scale(1.2);
+}
