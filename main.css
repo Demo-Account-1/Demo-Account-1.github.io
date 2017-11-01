@@ -17,4 +17,5 @@ html {
 
 .bigger-text {
   transform: scale(1.2);
+  transition-duration: 1s;
 }
